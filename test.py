@@ -14,5 +14,3 @@ for i in range(120,950):
 	if a[i,1600] == (255,255,255,255):
 		print 1
 		break
-		
-print a
